@@ -1,3 +1,140 @@
 body{
+    background-color:grey;
+}
+#topbar
+{
+    background-color:grey;
+    height:67px;
+    width: 100%;
+}
+#container
+{
     background-color: black;
+    height: 1100px;
+    width: 95%;
+    margin:0px auto;
+}
+#header ul{
+    float: right;
+    margin-right: 750px;
+    margin-top: 40px;
+}
+#header ul li{
+    display: inline;
+    margin-left:15px;
+    
+}
+#header ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: mangal;
+}
+#header ul li button{
+    
+   padding: 8px 20px;
+   border-radius: 25px;
+   background-color: yellowgreen;
+}
+#content1
+{
+    width:40%;
+    height: 80px;
+    margin-top: 100px;
+    margin-left: 120px;
+    background-color: rgb(242, 253, 176);
+    float: left;
+    margin-right: 0.5%;
+}
+#content2
+{
+    width:30%;
+    height: 80px;
+    margin-top: 100px;
+    background-color: rgb(226, 252, 111);
+    float: left;
+    margin-right: 0.5%;
+}
+#content3
+{
+    width:20%;
+    height: 80px;
+    margin-top: 100px;
+    background-color: rgb(248, 242, 242);
+    float:left;
+}
+.heading
+{
+    color: black;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left:  150px;
+}
+.para1
+{
+    margin-top: 5px;
+    margin-left: 150px;
+
+}
+.heading1
+{
+    color: black;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left:  150px;
+}
+.para2
+{
+    margin-top: 5px;
+    margin-left: 150px;
+
+}
+.heading2
+{
+    color: black;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left:  150px;
+}
+.para3
+{
+    margin-top: 5px;
+    margin-left: 150px;
+
+}
+.ph
+{
+font-style:Mangal;
+color: white;
+margin-top: 5px;
+margin-left: 150px;
+font-size: 75px;
+}
+.high
+{
+   text-decoration-color: aquamarine;
+}
+.ph1
+{
+font-style:Mangal;
+color: white;
+margin-top: 5px;
+margin-left: 150px;
+font-size: 25px;
+}
+.techo {
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin-right: 200px;
+  }
+.bu ul li
+{
+    display: inline;
+   font-size: 30px;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+#footer{
+    margin-bottom: 200px;
 }
